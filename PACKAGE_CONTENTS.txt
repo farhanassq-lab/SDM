@@ -1,0 +1,2 @@
+Tahap 14: direct evidence upload for Unit Activity Monitoring
+Copy frontend/src files only; run 14_activity_evidence_storage.sql once.
